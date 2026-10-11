@@ -1,0 +1,19 @@
+elements,structure,operation,average_total_ms,average_ns_per_operation
+100,BST,insert,0.006296,62.96
+100,BST,search,0.005542,55.42
+100,BST,delete,0.006938,69.38
+100,Hash Table,insert,0.011929,119.29
+100,Hash Table,search,0.002700,27.00
+100,Hash Table,delete,0.002152,21.52
+1000,BST,insert,0.055229,55.23
+1000,BST,search,0.043544,43.54
+1000,BST,delete,0.057727,57.73
+1000,Hash Table,insert,0.044273,44.27
+1000,Hash Table,search,0.020611,20.61
+1000,Hash Table,delete,0.017725,17.73
+10000,BST,insert,0.653114,65.31
+10000,BST,search,0.468765,46.88
+10000,BST,delete,0.668079,66.81
+10000,Hash Table,insert,0.211558,21.16
+10000,Hash Table,search,0.088692,8.87
+10000,Hash Table,delete,0.041167,4.12

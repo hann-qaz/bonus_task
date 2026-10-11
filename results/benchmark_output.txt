@@ -1,0 +1,13 @@
+BST and Hash Table benchmark
+Random seed: 20261010
+Warm-up runs: 5
+Measured runs: 20 (reported value is the mean)
+
+Elements Structure       Insert ms    Search ms    Delete ms
+------------------------------------------------------------------
+100      BST              0.006296     0.005542     0.006938
+100      Hash Table       0.011929     0.002700     0.002152
+1000     BST              0.055229     0.043544     0.057727
+1000     Hash Table       0.044273     0.020611     0.017725
+10000    BST              0.653114     0.468765     0.668079
+10000    Hash Table       0.211558     0.088692     0.041167
