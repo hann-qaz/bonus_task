@@ -129,7 +129,7 @@ git init
 git add README.md HANDWRITTEN_REPORT.md .gitignore src results
 git commit -m "Add BST and hash table comparison"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git remote add origin https://github.com/hann-qaz/bonus_task
 git push -u origin main
 
 
